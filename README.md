@@ -2,6 +2,8 @@
 
 _🕵️‍♂️ Digital Evidence & System Activity Reconstruction Tool_
 
+![pexels-photo-5377684](https://github.com/user-attachments/assets/c4a4407d-69ab-4c45-b129-ac0f2c9f3413)
+
 
 ***✨ Overview:***
 
