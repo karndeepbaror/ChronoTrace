@@ -172,5 +172,5 @@ This tool is for `educational` and `research` purposes only. Use
 
 ***📄 License:***
 
-This project is licensed under the MIT License – see the `LICENSE`~ file for details.
+This project is licensed under the MIT License – see the [ LICENSE ](https://github.com/karndeepbaror/ChronoTrace/blob/main/LICENCE)  - file for details.
 
