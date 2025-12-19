@@ -159,7 +159,8 @@ chronotrace/
 ***🧑‍💻 Author***
 
 Made with 🖤 by [ Karndeep Baror]  
-📎 LinkedIn: [ Connect On LinkedIn]](https://www.linkedin.com/in/karndeepbaror)
+
+📎 LinkedIn: [ Connect On LinkedIn](https://www.linkedin.com/in/karndeepbaror)
 
 ⚡ Instgram: [ Follow on Instagram ](https://www.instagram.com/karndeepbaror)
 
