@@ -19,6 +19,7 @@ Ideal for `digital forensic investigators`, `cyber security professionals`, `inc
 
 It features a interactive console, while maintaining court-ready evidence integrity and SOC-style workflow.
 
+ ‎
 
 ***🛠️ Key Features:***
 
@@ -46,7 +47,7 @@ It features a interactive console, while maintaining court-ready evidence integr
 
 **🏷️ Evidence Integrity Seal** – Each report contains a SHA-256 hash of the report and collected evidence.
 
-
+ ‎
 
 ***📦 Installation:***
 
@@ -67,6 +68,7 @@ cd ChronoTrace
 See Tool Interface - [ Click Here ](https://github.com/karndeepbaror/ChronoTrace/blob/main/Imeges/ChronoTrace.png)
 
 
+ ‎
 ***🚀 Usage:***
 
 Run the tool via Python:
@@ -86,6 +88,7 @@ After scanning, a case report is generated:
 
 > <CASE_ID>_report.json
 
+ ‎
 
 ***📊 Report Details:***
 
@@ -120,6 +123,7 @@ See Output Result - [ Click Hegit](https://github.com/karndeepbaror/ChronoTrace/
 }
 ```
 
+ ‎
 ***✅ Key report information:***
 
 **🆔 Case ID** – Unique investigation identifier
@@ -137,7 +141,7 @@ See Output Result - [ Click Hegit](https://github.com/karndeepbaror/ChronoTrace/
 **🔐 Report Hash** – SHA-256 hash for tamper-proof verification
 
 
-
+ ‎
 ***🎯 Recommended Use Cases***
 
 • 📱 Mobile device forensic analysis
@@ -162,6 +166,7 @@ chronotrace/
 ├─ README.md                   # This README
 ```
 
+ ‎
 ***🧑‍💻 Author***
 
 Made with 🖤 by [ Karndeep Baror]  
@@ -171,10 +176,12 @@ Made with 🖤 by [ Karndeep Baror]
 ⚡ Instgram: [ Follow on Instagram ](https://www.instagram.com/karndeepbaror)
 
 
+ ‎
 🛡️ Disclaimer
 
 This tool is for `educational` and `research` purposes only. Use 
 
+ ‎
 ***📄 License:***
 
 This project is licensed under the MIT License – see the [ LICENSE ](https://github.com/karndeepbaror/ChronoTrace/blob/main/LICENCE)  - file for details.
