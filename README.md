@@ -90,6 +90,8 @@ After scanning, a case report is generated:
 
 The JSON report contains structured information. Example:
 
+See Output Result - [ Click Hegit](https://github.com/karndeepbaror/ChronoTrace/blob/main/Imeges/ChronoTrace-ResInterface)
+
 ```
 {
   "case_id": "CT-1A2B3C4D",
