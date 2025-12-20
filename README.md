@@ -58,6 +58,7 @@ pip install rich colorama watchdog
 
 Clone the repository:
 ```
+rm -rf ChronoTrace
 git clone https://github.com/karndeepbaror/ChronoTrace.git
 cd ChronoTrace
 cd ChronoTrace
