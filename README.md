@@ -123,7 +123,8 @@ See Output Result - [ Click Here ](https://github.com/karndeepbaror/ChronoTrace/
 }
 ```
 
- ‎
+
+  ‎‎
 ***✅ Key report information:***
 
 **🆔 Case ID** – Unique investigation identifier
@@ -166,7 +167,8 @@ chronotrace/
 ├─ README.md                   # This README
 ```
 
- ‎
+ 
+  ‎‎
 ***🧑‍💻 Author***
 
 Made with 🖤 by [ Karndeep Baror]  
@@ -175,13 +177,14 @@ Made with 🖤 by [ Karndeep Baror]
 
 ⚡ Instgram: [ Follow on Instagram ](https://www.instagram.com/karndeepbaror)
 
-
+ ‎
  ‎
 🛡️ Disclaimer
 
 This tool is for `educational` and `research` purposes only. Use 
 
- ‎
+ 
+  ‎‎
 ***📄 License:***
 
 This project is licensed under the MIT License – see the [ LICENSE ](https://github.com/karndeepbaror/ChronoTrace/blob/main/LICENCE)  - file for details.
