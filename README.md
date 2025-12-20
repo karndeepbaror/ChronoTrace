@@ -90,6 +90,7 @@ After scanning, a case report is generated:
 
  ‎
 
+ 
 ***📊 Report Details:***
 
 The JSON report contains structured information. Example:
@@ -124,7 +125,9 @@ See Output Result - [ Click Here ](https://github.com/karndeepbaror/ChronoTrace/
 ```
 
 
+ 
   ‎‎
+ ‎
 ***✅ Key report information:***
 
 **🆔 Case ID** – Unique investigation identifier
@@ -142,7 +145,8 @@ See Output Result - [ Click Here ](https://github.com/karndeepbaror/ChronoTrace/
 **🔐 Report Hash** – SHA-256 hash for tamper-proof verification
 
 
- ‎
+
+  ‎
 ***🎯 Recommended Use Cases***
 
 • 📱 Mobile device forensic analysis
