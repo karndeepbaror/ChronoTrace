@@ -94,7 +94,7 @@ After scanning, a case report is generated:
 
 The JSON report contains structured information. Example:
 
-See Output Result - [ Click Hegit](https://github.com/karndeepbaror/ChronoTrace/blob/main/Imeges/ChronoTrace-ResInterface)
+See Output Result - [ Click Here ](https://github.com/karndeepbaror/ChronoTrace/blob/main/Imeges/ChronoTrace-ResInterface)
 
 ```
 {
